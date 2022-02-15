@@ -7,4 +7,4 @@ A new Flutter project.
 Enter in terminal 
 ### flutter clean && flutter pub get && flutter packages pub run build_runner build --delete-conflicting-outputs, 
 then 
-### run app
+### flutter run 
